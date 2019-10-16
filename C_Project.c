@@ -91,12 +91,12 @@ int main()
    }
 
    // 5;
-   int n2;
-   n2 = mySquare(5);
-   printf("\n\nSquare number: %d\n", n2);
+   printf("\n\nHere is the message: %s\n", MESSAGE);
 
    // 6;
-   printf("\nHere is the message: %s\n", MESSAGE);
+   int n2;
+   n2 = mySquare(5);
+   printf("\nSquare number: %d\n", n2);
 
    // 7;
    int num1 = 20;
