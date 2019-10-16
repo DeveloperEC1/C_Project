@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+// 5;
 #if !defined(MESSAGE)
 #define MESSAGE "You wish!"
 #endif
@@ -117,6 +118,7 @@ int main()
    return 0;
 }
 
+// 6;
 int mySquare(int n1)
 {
    int p;
